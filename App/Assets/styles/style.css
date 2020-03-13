@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(253, 251, 250);
+}
+.imagen {
+    position: relative;
+    left: 350px;
+    bottom: 2px;
+}
+footer{
+
+    background-color: rgb(25, 98, 235);
+    position: relative;
+    top: 66.1px;
+}
+
+/* .my-custom-scrollbar {
+    position: relative;
+    height: 450px;
+    overflow: auto;
+    } */
+.table-wrapper-scroll-y {
+    display: block;
+}
+.iconos{
+    list-style: none;
+    display: inline-flex;
+    position: relative;
+    left: 560px;
+    top: 10px;
+}
+.iconos >li{
+    margin: 10px;
+}
+.fa {
+    display: inline-block;
+    color: white;
+    font: normal normal normal 14px/1 FontAwesome;
+    text-rendering: auto;
+}
+.copy{
+    position: relative;
+    left: 540px;
+}
